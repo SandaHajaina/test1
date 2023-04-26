@@ -34,7 +34,7 @@ for (let index = 0; index < t5.length; index++) {
         nombreMax = t5[index]
     }
 }
-console.log(`Nombre max dans t5: ${nombreMax}`); //affiche le nombre maximal dans le tableau t4
+console.log(`Nombre max dans t5: ${nombreMax}`); //affiche le nombre maximal dans le tableau t5
 
 
 /*******************************************/
